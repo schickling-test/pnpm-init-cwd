@@ -1,0 +1,6 @@
+{
+  "name": "site",
+  "scripts": {
+    "build": "echo INIT_CWD:$INIT_CWD PWD:$PWD"
+  }
+}
